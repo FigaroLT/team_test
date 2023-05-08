@@ -1,5 +1,5 @@
-import logo from "./logo.9725bb16.svg";
+import logo from "./vigi-47-logo.svg";
 
 export const Logo = () => {
-  return <img src={logo} alt="Code Academy logo" />;
+  return <img src={logo} alt="VIGI 47 bendro projekto logotypas" />;
 };
